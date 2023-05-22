@@ -2,7 +2,7 @@ module github.com/leafduo/mod-example
 
 require (
 	github.com/gin-gonic/gin v1.9.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 )
 
 require (
